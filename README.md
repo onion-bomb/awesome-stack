@@ -1,5 +1,5 @@
-# awesome-stack
-My awesome stack
+# Awesome Stack
+My awesome main stack
 
 ## CSS
 - Semantic-UI
@@ -38,3 +38,4 @@ My awesome stack
 
 ## Others
 - Electron
+- Nginx
