@@ -11,18 +11,29 @@ My awesome main stack
 - VSCode
 
 ## Frontend
-- Vue.js
 - React.js
+- Vue.js
 
-## Languages
+## Main Languages
 - Python
 - JavaScript
+
+## Secondary Languages
+- Rust
+- Go
+- C
+- Java
+- Elixir
+- Matlab
 
 ## Machine Learning
 - PyTorch
 - Keras
-- ScikitLearn
+- scikit-learn
+
+## Data Analysis
 - Pandas
+- Matplotlib
 
 ## Cloud
 - AWS
@@ -35,6 +46,11 @@ My awesome main stack
 - Flask
 - Rails
 - Express
+
+## DevOps
+- Docker
+- Kubernetes
+- Vagrant
 
 ## Others
 - Electron
